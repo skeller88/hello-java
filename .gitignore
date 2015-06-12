@@ -1,5 +1,7 @@
-out/
+.gradle/
 .idea/
+build/
+out/
 notes
 hello-java.iml
 *.jar
